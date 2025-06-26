@@ -2,15 +2,17 @@
 - 👀 I’m interested in ... Futurism + AI, Science, Software Engineering, Gaming, Politics, Music, Stoicism, Gnosticism, Fatherhood
 - 📫 How to reach me ... gildor101@proton.me
 
+This is the temporary web-page for my project:
+
 # Anthemic: A Revolutionary Adaptive Music Creation Platform
 
 I have dreamed a design for a sci-fi-worthy musical interface that helps make the world a more musical place.
 
-I didn't invent these technologies - I merely saw the need to put them in an application that might best serve the world. AI tools have enabled me to do this. See our Ethics Governance documentation for more on my commitment to democratizing music creation with sophisticated and sustainable technology.
+I didn't invent these technologies - I merely saw the need to put them in an application that might best serve the world. 
 
-This is Jesse Bridgeman's personal Anthemic document. Use it as a pilot document for generating and reviewing the docbase interface. Please do not revise it unless asked explicitly. Feel free to suggest changes.
+AI tools have enabled me to do this. 
 
-This is my dream, and there is no MVP without it. I intend to make an impact; not a quick buck, nor a hobby project. MVP is an internal benchmark referred to in the doc base, but it undersells Anthemic. Our launch will be a beta, not a minimization of the dream.
+See our Ethics Governance documentation for more on my commitment to democratizing music creation with sophisticated and sustainable technology.
 
 ## The Revolutionary Core: A Self-Improving Musical Mind
 
